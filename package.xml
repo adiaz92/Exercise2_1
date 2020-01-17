@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ex_2_1</name>
+  <version>1.0.0</version>
+  <description>Ex_2_1 for the Master in Robotics from UVIC 2019-20</description>
+
+  <maintainer email="adriandb1992@gmail.com">Adrian Diaz</maintainer>
+  <license>BSD</license>
+  <author email="adriandb1992@gmail.com">Adrian Diaz</author>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>usb_cam</build_depend>
+  <build_export_depend>usb_cam</build_export_depend>
+  <exec_depend>usb_cam</exec_depend>
+
+</package>
